@@ -38,12 +38,12 @@ The **1U CubeSat** is a miniature satellite designed for academic purposes. It i
 
 ---
 
-  🧰 Tools & Technologies
+🧰 Tools & Technologies
 - Hardware Design: KiCad, FreeCAD  
 - Software: Arduino IDE, Python  
 - Fabrication: PCBWay, 3D Printing  
 - Testing: SDR communication setup, power & sensor validation
-  ## 📜 License
+📜 License
 This project is licensed under the **MIT License** — free for use, modification, and educational purposes.  
 
 ---
